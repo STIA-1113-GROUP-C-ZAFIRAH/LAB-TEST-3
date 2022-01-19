@@ -1,0 +1,11 @@
+Enter number of words 6
+Words : hello
+Words : world
+Words : hello
+Words : germany
+Words : hello
+Words : berlin
+world : 1
+germany : 1
+hello : 3
+berlin : 1
